@@ -1,1 +1,43 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+I am thinking about changing major to marketing after getting my UX associates. So I tailored it towards that end.
+
+1. 
+What Changed: Made Testimonial Career Titles be Marketing Positions
+Reason: To show that I would of worked with Marketing Professionals.
+
+2. 
+What Changed: Under the "for" section, I put a new section for what companies trust me for.
+Raeson: To gain crediablity and expand what services I offered them.
+
+3. 
+What Changed: I changed the Form section title to say "Start Your Marketing Success" 
+and under the Sumbit button I added "Start Your Next Marketing Success!".
+Reason: If someone is looking for marketing services, it will call out to them.
+
+4. 
+What Changed: I fixed the images layout in services section so images don't stack on one another. 
+Reason: Since most people use phones now, i wanted the mobile view to be as good as possible
+
+5. 
+What Changed: I changed the layout of the nav to stack items on top of each other and centered it and sepertating lines in the hamburger view, and empized the word "contact" 
+to encourage customers to reach out.
+Reason: To make the page flow more naturally and encourage users to contact me.
+
+6. 
+What Changed: For the last 3 "Latest Work" images, I changed it to User Data Collection case studies
+Reason: If I am transitioning to marketing, it can show I gather user data that can be used for marketing.
+
+7. 
+What Changed: Added badges "Marketing", "User Data Collection" and "User Personas" in Trusted by section.
+Reason: to clarify what type of support I gave to each company.
+
+8. 
+What Changed: FAQ to Marketing FAQ and tailored the questions on how I would do marketing.
+Reason: Made any users wanting someone for there marketing and data collection team know how i do things.
+
+9. 
+What Changed: Made the Get In touch button slide down to contact section on the page.
+Reason: To make the user more likely to contact me for more people to work with.
+
+10. 
+What Changed: Made the nav links at the top of the page work, and when the user presses the phone button, it should pull up the phone app with that number.
+Reason: Less steps people have to go through to contact me makes it much more likely that they will contact me.

@@ -20,8 +20,9 @@
 
     .ratings {
       i {
-        color: rgba($primary, 0.7);
+        color: rgba($primary, 1);
         font-size: 1rem;
+        fill: rgba($primary, 1);
       }
     }
   }

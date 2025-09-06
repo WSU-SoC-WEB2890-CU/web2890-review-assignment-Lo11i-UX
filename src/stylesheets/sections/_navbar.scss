@@ -1,5 +1,5 @@
-@use '../custom'as *;
-@use '../components/mixins'as *;
+@use '../custom' as *;
+@use '../components/mixins' as *;
 
 .menu {
   @include gradient;
@@ -21,4 +21,19 @@
 
   }
 
+  @media (max-width: 1000px) {
+    .navbar-nav {
+      text-align: center;
+
+      .nav-item {
+        border-bottom: 1px solid white;
+        padding: 10px 0;
+
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+      
+    }
+  }
 }
